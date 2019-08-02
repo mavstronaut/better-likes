@@ -13,3 +13,11 @@ Overview: To create a system for more efficient search and filter of ideas, rath
 BONUS:
 - visualize this data as a force directed graph and explore prompts
 - categories for prompts (that aren't related to the tags being voted on for association, but rather for finding the actual prompt)
+- move from a nosql mongodb to a graphql data structure?
+
+# Use cases
+- understanding subjective data. such as the nature of reality, religion, perception and bias
+- form and debate political arguments
+- create music playlists that fit different context
+- replace social media with idea media
+- establish social contracts through agreement and mapping belief structures
